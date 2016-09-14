@@ -36,3 +36,8 @@ name = "q06"
 doc = false
 path = "src/q06.rs"
 
+[[bin]]
+name = "q07"
+doc = false
+path = "src/q07.rs"
+
