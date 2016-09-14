@@ -5,3 +5,34 @@ authors = ["yagince <straitwalk@gmail.com>"]
 
 [dependencies]
 chrono = "0.2"
+
+[[bin]]
+name = "q01"
+doc = false
+path = "src/q01.rs"
+
+[[bin]]
+name = "q02"
+doc = false
+path = "src/q02.rs"
+
+[[bin]]
+name = "q03"
+doc = false
+path = "src/q03.rs"
+
+[[bin]]
+name = "q04"
+doc = false
+path = "src/q04.rs"
+
+[[bin]]
+name = "q05"
+doc = false
+path = "src/q05.rs"
+
+[[bin]]
+name = "q06"
+doc = false
+path = "src/q06.rs"
+
