@@ -5,16 +5,12 @@ authors = ["yagince <straitwalk@gmail.com>"]
 
 [dependencies]
 chrono = "0.2"
+lazy_static = "0.2.2"
 
 [[bin]]
 name = "q01"
 doc = false
 path = "src/q01.rs"
-
-[[bin]]
-name = "q02"
-doc = false
-path = "src/q02.rs"
 
 [[bin]]
 name = "q03"
@@ -40,4 +36,19 @@ path = "src/q06.rs"
 name = "q07"
 doc = false
 path = "src/q07.rs"
+
+[[bin]]
+name = "q10"
+doc = false
+path = "src/q10.rs"
+
+[[bin]]
+name = "q11"
+doc = false
+path = "src/q11.rs"
+
+[[bin]]
+name = "q14"
+doc = false
+path = "src/q14.rs"
 
