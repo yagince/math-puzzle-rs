@@ -5,8 +5,8 @@ authors = ["yagince <straitwalk@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-chrono = "0.2"
-lazy_static = "0.2.2"
-itertools = "0.8.1"
+chrono = "0.4.2"
+lazy_static = "1.4.0"
+itertools = "0.8.2"
 num-rational = "0.2.2"
 num-integer = "0.1.41"
